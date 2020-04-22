@@ -1,0 +1,31 @@
+.button{
+
+    position: absolute;
+    transition: .5s ease;
+    left: 1400px;
+    top: 30px;
+}
+
+.icon{
+    position: relative;
+    left: 40px;
+    top: 9px;
+    transition: none 0s ease 0s;
+    cursor: move;
+}
+
+.main{
+    margin: 5px 5px 5px 5px;
+    padding: 1px;
+}
+
+.avatar{
+    position: absolute;
+    transition: .5s ease;
+    left : 1330px;
+    top : 30px;
+}
+.marginline {
+    position: relative;
+    top : -10px;
+}
