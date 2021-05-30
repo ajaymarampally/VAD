@@ -31,7 +31,7 @@
     "serialport": "^8.0.7",
     "shards-react": "^1.0.3",
     "webpack-bundle-analyzer": "^3.6.0",
-    "ws": "^7.2.3"
+    "ws": "^7.4.6"
   },
   "scripts": {
     "start": "react-scripts start",
